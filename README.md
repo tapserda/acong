@@ -13,6 +13,6 @@ THERE 2 WAYS TO INSTALL THIS
 2. WAY TWO
 - git clone or download zip this repo's
 - move django-helloworld to your virtual environment folder
-- install requiremments program
+- install requiremments program ( setuptools, pip, wheel, asgiref, sqlparse, pytz, django)
 - active the source 
 - open yourn localhost:5000
